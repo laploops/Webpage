@@ -65,7 +65,7 @@ Laploop concentrates capital, intellect, and engineering resources across six co
 | Layer | Technology |
 |---|---|
 | **Framework** | [React 19](https://react.dev/) |
-| **Bundler & Build Tool** | [Vite 8](https://vitejs.dev/) |
+| **Bundler & Build Tool** | [Vite 6](https://vitejs.dev/) |
 | **Language** | [TypeScript](https://www.typescriptlang.org/) (Strict Mode) |
 | **Styling** | [Tailwind CSS v4](https://tailwindcss.com/) |
 | **Motion & Animation** | [Motion (Framer Motion v12)](https://motion.dev/) |
