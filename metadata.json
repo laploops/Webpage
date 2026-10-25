@@ -1,0 +1,6 @@
+{
+  "name": "LAPLOOP",
+  "description": "The official website for LAPLOOP — an independent technology company engineering what's next across AI, advanced computing, cybersecurity, software, robotics, and semiconductors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
